@@ -1,0 +1,28 @@
+{
+ "pizza": {
+  "calories": 266,
+  "protein": 11,
+  "carbs": 33,
+  "fat": 10,
+  "sugar": 4,
+  "sodium": 640
+ },
+
+ "chicken_biryani": {
+  "calories": 290,
+  "protein": 15,
+  "carbs": 35,
+  "fat": 10,
+  "sugar": 3,
+  "sodium": 520
+ },
+
+ "hamburger": {
+  "calories": 52,
+  "protein": 0,
+  "carbs": 14,
+  "fat": 0,
+  "sugar": 10,
+  "sodium": 1
+ }
+}
